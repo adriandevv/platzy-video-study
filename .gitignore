@@ -1,0 +1,4 @@
+# Parcel v2
+.parcel-cache/
+dist/
+node_modules/
